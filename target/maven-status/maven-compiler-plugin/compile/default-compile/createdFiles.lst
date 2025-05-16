@@ -1,0 +1,7 @@
+com\computercafe\view\LoginForm.class
+com\computercafe\database\DatabaseManager.class
+com\computercafe\model\Order.class
+com\computercafe\model\User.class
+com\computercafe\view\CustomerDashboard.class
+com\computercafe\SimpleCafeSystem.class
+com\computercafe\view\AdminDashboard.class
